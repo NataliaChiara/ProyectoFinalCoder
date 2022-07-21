@@ -1,0 +1,65 @@
+[
+    {
+        "id": 0,
+        "imagen": "https://static.zara.net/photos///2022/V/0/1/p/7521/046/330/2/w/388/7521046330_2_1_1.jpg?ts=1646384264043",
+        "nombre": "Blazer floreado",
+        "precio": 5500
+    },
+
+    {
+        "id": 1,
+        "imagen": "https://static.zara.net/photos///2022/W/T/1/p/0790/151/630/2/w/318/0790151630_15_2_1.jpg?ts=1647857755608",
+        "nombre": "Tapado rosa",
+        "precio": 5000
+    },
+
+    {
+        "id": 2,
+        "imagen": "https://static.zara.net/photos///2022/W/0/1/p/7278/628/300/502/w/563/7278628300_1_1_1.jpg?ts=1647967788433",
+        "nombre": "Blazer amarillo",
+        "precio": 6000
+    },
+
+    {
+        "id": 3,
+        "imagen": "https://static.zara.net/photos///2022/W/0/1/p/5536/142/400/503/w/563/5536142400_1_1_1.jpg?ts=1647856567832",
+        "nombre": "Cardigan azul",
+        "precio": 4800
+    },
+    
+    {
+        "id": 4,
+        "imagen": "https://static.zara.net/photos///2022/W/0/1/p/6873/158/717/502/w/563/6873158717_1_1_1.jpg?ts=1648549471675",
+        "nombre": "Camisa marron",
+        "precio": 4000
+    },
+
+    {
+        "id": 5,
+        "imagen": "https://static.zara.net/photos///2022/V/0/1/p/4437/070/515/2/w/565/4437070515_9_2_1.jpg?ts=1648567792225",
+        "nombre": "Camisa caqui",
+        "precio": 3500
+    },
+
+    {
+        "id": 6,
+        "imagen": "https://static.zara.net/photos///2022/V/0/1/p/3115/218/712/3/w/440/3115218712_2_3_1.jpg?ts=1648742377702",
+        "nombre": "Camisa blanca",
+        "precio": 3800
+    },
+
+    {
+        "id": 7,
+        "imagen": "https://static.zara.net/photos///2022/V/0/1/p/4786/059/330/2/w/388/4786059330_2_1_1.jpg?ts=1646384237314",
+        "nombre": "Vestido floreado",
+        "precio": 5000
+    },
+
+    {
+        "id": 8,
+        "imagen": "https://static.zara.net/photos///2022/V/0/1/p/7563/045/707/2/w/440/7563045707_1_1_1.jpg?ts=1646384263991",
+        "nombre": "Pollera marron",
+        "precio": 4800
+    }
+    
+]

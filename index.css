@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.background{
+    margin-top: 100px;
+    margin-bottom: 80px;
+    min-height: 80%;
+    width: 80%;
+    background-color: #EFEFEF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header {
+    background-color: white;
+    width: 80%;
+    position: fixed;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title{
+    font-family: 'Yeseva One';
+    font-size: 50px;
+    padding: 20px;
+}
+
+.nav{
+    padding: 20px;
+}
+
+.portada{
+    width: 90%;
+    margin: 50px;
+}
+
+.containerProd {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.producto {
+    background-color: white;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px 10px;
+}
+
+.img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.cat {
+    height: 200px;
+    width: 200px;
+    margin: 20px 20px 10px 20px;
+    border: 1px solid #EFEFEF;
+}
+
+.cat2{
+    height: 100px;
+    width: 100px;
+    margin: 20px 20px 10px 20px;
+    border: 1px solid #EFEFEF;
+}
+
+.descripcion h1, h2 {
+    font-size: 15px;
+    padding-bottom: 10px;
+    text-align: left;
+    width: 190px;
+}
+
+.descripcion2 h1, h2 {
+    font-size: 10px;
+    padding-bottom: 10px;
+    text-align: left;
+    width: 90px;
+}
+
+.suma {
+    width: 200px;
+    margin: 10px 5px 30px 5px;
+    background-color: #FF914D;
+    border: none;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.suma:hover{
+    background-color: #000000;
+}
+
+.conteinerCarrito{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+.totalCarrito{
+    display: flex;
+    justify-content: center;
+}
+
+.navCarrito{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+
+
+
